@@ -1,4 +1,6 @@
 # Logs
+solution.js
+solution.ejs
 logs
 *.log
 npm-debug.log*
